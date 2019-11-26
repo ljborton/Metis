@@ -1,0 +1,10 @@
+variable,data_set,type,variable
+index,observations,int64,
+document_path,observations,object,
+filename,observations,object,
+category,observations,object,
+text,observations,object,
+tokens,observations,object,
+bigrams,observations,object,
+modeling_text_list,observations,object,
+modeling_text,observations,object,
